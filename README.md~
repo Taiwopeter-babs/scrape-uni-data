@@ -47,5 +47,3 @@ The data retrived is saved to a file `schools.json`
 This application was tested on Windows OS using powershell cli.
 
 I tried testing on the Windows Subsysytem for Linux (WSL), but I ran into a lot of dependency problems.
-
-Please contact me if you would like to contribute to this project.
