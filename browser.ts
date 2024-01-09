@@ -14,7 +14,7 @@ export async function startBrowser() {
              * setting headless to false makes sure puppeteer 
              * runs with an interface
              */
-            headless: 'new',
+            headless: "new",
             args: ['--disable-setuid-sandbox', '--no-sandbox'],
             'ignoreHTTPSErrors': true,
             ignoreDefaultArgs: ['--disable-extensions']
